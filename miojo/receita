@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Receita de miojo</title>
     <link rel="stylesheet" href="receita.css">
-    
 </head>
 <body>
     <h1>Miojo Gourmet: Domine a Arte do Sabor instantâneo</h1>
@@ -38,13 +37,13 @@
         decorado com cebolinha picada (opcional).</li>
     </ol>
     <h2>Dicas para um Miojo Gourmet:</h2>
-    <p><i>* Utilize um caldo de galinha caseiro para um sabor mais intenso.</i></p>
-    <p><i>* Adicione outros ingredientes à sua gosto, como legumes picados, frango
-    desfiado ou ovo cozido.</i></p>
-    <p><i>* Experimente diferentes tipos de macarrão instantâneo para encontrar o seu
-    favorito.</i></p>
-    <p><i>* Finalize com um toque de azeite de oliva extra virgem para um sabor ainda
-    mais especial.</i></p>
+        <p><i>* Utilize um caldo de galinha caseiro para um sabor mais intenso.</i></p>
+        <p><i>* Adicione outros ingredientes à sua gosto, como legumes picados, frango
+        desfiado ou ovo cozido.</i></p>
+        <p><i>* Experimente diferentes tipos de macarrão instantâneo para encontrar o seu
+        favorito.</i></p>
+        <p><i>* Finalize com um toque de azeite de oliva extra virgem para um sabor ainda
+        mais especial.</i></p>
     
     <br><img src="https://i0.wp.com/ymeet.com.br/wp-content/uploads/2021/10/miojo-gourmet.jpg?fit=1280%2C720&ssl=1"
     alt="">
