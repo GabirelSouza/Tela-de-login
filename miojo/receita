@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de miojo</title>
+    <link rel="stylesheet" href="receita.css">
+    
+</head>
+<body>
+    <h1>Miojo Gourmet: Domine a Arte do Sabor instantâneo</h1>
+    <h2>Ingredientes:</h2>
+    <ul>
+        <li>1 pacote de macarrão instantâneo (sabor a sua escolha)</li>
+        <li>1 sachê de tempero em pó</li>
+        <li>1/2 tablete de caldo de galinha (opcional)</li>
+        <li>1/2 cebola picada (opcional)</li>
+        <li>1 dente de alho picado (opcional)</li>
+        <li>1 colher de sopa de óleo vegetal</li>
+        <li>Sal e pimenta a gosto</li>
+        <li>Cebolinha picada para finalizar (opcional)</li>
+    </ul>
+    <h2>Modo de Preparo:</h2>
+    <ol>
+        <li>Ferva a água: Em uma panela, coloque água suficiente para cobrir o 
+        macarrão e leve para ferver em fogo alto.</li>
+        <li>Adicione o tempero: Quando a água ferver, adicione o sachê de
+        tempero e o caldo de galinha (se usar).</li>
+        <li>Refogue os temperos: Em uma frigideira, aqueça o óleo vegetal em
+        fogo médio. Adicione a cebola e o alho picados (se usar) e refogue até
+        ficarem macios.</li>
+        <li>Cozinhe o macarrão: Adicione o macarrão instantâneo à água fervente
+        e cozinhe por 3 minutos, ou até que esteja macio</li>
+        <li>Misture tudo: Escorra o macarrão e adicione-o à frigideira com os
+        temperos refogados. Misture bem até que o macarrão esteja
+        completamente envolvido no tempero.</li>
+        <li>Finalize e sirva: Ajuste o sal e a pimenta a gosto. Sirva quente,
+        decorado com cebolinha picada (opcional).</li>
+    </ol>
+    <h2>Dicas para um Miojo Gourmet:</h2>
+    <p><i>* Utilize um caldo de galinha caseiro para um sabor mais intenso.</i></p>
+    <p><i>* Adicione outros ingredientes à sua gosto, como legumes picados, frango
+    desfiado ou ovo cozido.</i></p>
+    <p><i>* Experimente diferentes tipos de macarrão instantâneo para encontrar o seu
+    favorito.</i></p>
+    <p><i>* Finalize com um toque de azeite de oliva extra virgem para um sabor ainda
+    mais especial.</i></p>
+    
+    <br><img src="https://i0.wp.com/ymeet.com.br/wp-content/uploads/2021/10/miojo-gourmet.jpg?fit=1280%2C720&ssl=1"
+    alt="">
+    
+    <p>Para conhecer um pouco da historia do miojo acesse: <a href="https://www.bbc.com/portuguese/geral-45977589">
+    Miojo na BBC</a></p>
+</body>
+</html>
